@@ -3,6 +3,7 @@
 *.psql
 *.pyc
 *.sqlite3
+.idea/*
 .venv
 .vscode
 /*.env
@@ -12,4 +13,3 @@
 /static-collected
 __pycache__/
 notes.md
-.idea/*
