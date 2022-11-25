@@ -12,3 +12,4 @@
 /static-collected
 __pycache__/
 notes.md
+.idea/*
